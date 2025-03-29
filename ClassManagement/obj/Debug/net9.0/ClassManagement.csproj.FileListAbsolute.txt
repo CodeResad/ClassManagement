@@ -1,0 +1,15 @@
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/bin/Debug/net9.0/ClassManagement
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/bin/Debug/net9.0/ClassManagement.deps.json
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/bin/Debug/net9.0/ClassManagement.runtimeconfig.json
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/bin/Debug/net9.0/ClassManagement.dll
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/bin/Debug/net9.0/ClassManagement.pdb
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/obj/Debug/net9.0/ClassManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/obj/Debug/net9.0/ClassManagement.AssemblyInfoInputs.cache
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/obj/Debug/net9.0/ClassManagement.AssemblyInfo.cs
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/obj/Debug/net9.0/ClassManagement.csproj.CoreCompileInputs.cache
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/obj/Debug/net9.0/ClassManagement.sourcelink.json
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/obj/Debug/net9.0/ClassManagement.dll
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/obj/Debug/net9.0/refint/ClassManagement.dll
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/obj/Debug/net9.0/ClassManagement.pdb
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/obj/Debug/net9.0/ClassManagement.genruntimeconfig.cache
+/Users/rashadjafarzade/RiderProjects/ClassManagement/ClassManagement/obj/Debug/net9.0/ref/ClassManagement.dll
